@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mallikarjun S Naik</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
-<img align="right" alt="coding" width="400" src="  https://www.google.com/search?sca_esv=3b07b09e3325eaa7&sca_upv=1&sxsrf=ADLYWIJXP63R9EwF9W96_pe1JMg7ouxuCw:1721634065326&q=animation+images+of+coding&udm=2&fbs=AEQNm0BKxFXqFZETuC92mLOmXO9xTuwl7LTqpjEikSHB2sNnAo_Nt6_jBoO5j_EG4ZXs8aQCufxT5WhqKxk_t3EFVMM67rI6i01ADbZ-a5wYaAsalDcO6S1GH-LO2-BpNO0GjKIvvxoXnjjP08V8RmhXnS3ZTYi7mGxclhyNM7kU-cEZojmfYb66zxZupqQ3TpTT-qjAIEt1CwlZuUTZOKSe8wS1nEmI6w&sa=X&ved=2ahUKEwiZn5bXkrqHAxUSS2wGHQ5DCQIQtKgLegQIExAB&biw=1536&bih=730&dpr=1.25">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikarjunnaik460&label=Profile%20views&color=0e75b6&style=flat" alt="mallikarjunnaik460" /> </p>
 
