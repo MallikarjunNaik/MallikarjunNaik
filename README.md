@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mallikarjun S Naik</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
-![Coding GIF](https://www.google.com/imgres?q=coding%20animation&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwiP2dSKnrqHAxUpzzgGHVIDBd8QM3oECCoQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwiP2dSKnrqHAxUpzzgGHVIDBd8QM3oECCoQAA)
+<img align="right" alt="Coder Clipart" width="400" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_6804917.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikarjunnaik&label=Profile%20views&color=0e75b6&style=flat" alt="mallikarjunnaik" /> </p>
 
