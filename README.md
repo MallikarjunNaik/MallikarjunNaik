@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mallikarjun S Naik</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
-<img align="right" alt="Coder Clipart" width="400" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_6804917.png">
-
+<h3 align="center">I am passionate Fullstack developer </h3>
+<img align="right" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikarjunnaik&label=Profile%20views&color=0e75b6&style=flat" alt="mallikarjunnaik" /> </p>
 
 <h3 align="left">Connect with me:</h3>
