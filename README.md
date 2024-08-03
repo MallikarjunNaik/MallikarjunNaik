@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mallikarjun S Naik</h1>
-<h3 align="center">I am passionate Fullstack developer </h3>
+<h3 align="center">I am a passionate Fullstack developer. </h3>
 <img align="right" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikarjunnaik&label=Profile%20views&color=0e75b6&style=flat" alt="mallikarjunnaik" /> </p>
 
